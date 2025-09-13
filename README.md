@@ -2,7 +2,7 @@
 
 ![Task Trek Logo](./imglogo/2_upscaled.jpeg) 
 
-A modern, responsive Todo List application built during my 3-month internship at **CodeAlpha**. Task Trek helps users organize their daily tasks with an intuitive interface and essential productivity features.
+A modern, responsive Todo List application built using html, css, and javascript. Task Trek helps users organize their daily tasks with an intuitive interface and essential productivity features.
 
 ## 🚀 Features
 
@@ -65,12 +65,12 @@ task-trek/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shareef-deen21/codealpha_tasks
+   git clone [https://github.com/Shareef-deen21/To-Do_List](https://github.com/Shareef-deen21/To-Do_List)
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd codealpha_tasks
+   cd To-Do_List
    ```
 
 3. **Open in browser**
@@ -117,13 +117,8 @@ This project helped me develop skills in:
 - **User Experience**: Intuitive interface design
 - **Code Organization**: Clean, maintainable code structure
 
-## 👨‍💻 About
-
-This project was developed as part of my **3-month internship at CodeAlpha**, focusing on practical web development skills and creating real-world applications.
-
 ## 🙏 Acknowledgments
 
-- **CodeAlpha** for the internship opportunity
 - Inspiration from modern todo applications
 - Open source community for resources and guidance
 
@@ -131,7 +126,7 @@ This project was developed as part of my **3-month internship at CodeAlpha**, fo
 
 **Shareef Deen** - ahamedshariffdeen@gmail.com
 
-Project Link: [https://github.com/Shareef-deen21/codealpha_tasks](https://github.com/Shareef-deen21/codealpha_tasks)
+Project Link: [https://github.com/Shareef-deen21/To-Do_List](https://github.com/Shareef-deen21/To-Do_List)
 
 ---
 
